@@ -1,0 +1,17 @@
+/** Basic Page Styling **/
+
+body {
+  background-color: #242424; 
+  color: white;
+}
+
+.mem {
+  margin-top: 50%;
+}
+
+/** Removes Bootstrap Button Hover Effect **/
+a.btn:hover,
+a.btn:active {
+  outline: none;
+  box-shadow: none;
+}
